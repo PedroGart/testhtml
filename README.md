@@ -1,2 +1,2 @@
 # testhtml
-Only a test
+Only a test for personal use.
